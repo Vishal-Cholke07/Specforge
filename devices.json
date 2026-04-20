@@ -1,0 +1,1872 @@
+[
+  {
+    "id": 1, "name": "iPhone 15 Pro Max", "brand": "Apple", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=iPhone+15+Pro+Max",
+    "price": 1199, "rating": 4.8,
+    "specs": {
+      "Display": "6.7\" Super Retina XDR OLED",
+      "Processor": "Apple A17 Pro",
+      "RAM": 8,
+      "Storage": 256,
+      "Battery": 4422,
+      "Camera": "48MP + 12MP + 12MP",
+      "OS": "iOS 17",
+      "Weight": 221,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 2, "name": "iPhone 15", "brand": "Apple", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=iPhone+15",
+    "price": 799, "rating": 4.6,
+    "specs": {
+      "Display": "6.1\" Super Retina XDR OLED",
+      "Processor": "Apple A16 Bionic",
+      "RAM": 6,
+      "Storage": 128,
+      "Battery": 3877,
+      "Camera": "48MP + 12MP",
+      "OS": "iOS 17",
+      "Weight": 171,
+      "5G": "Yes",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 3, "name": "Samsung Galaxy S24 Ultra", "brand": "Samsung", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=S24+Ultra",
+    "price": 1299, "rating": 4.7,
+    "specs": {
+      "Display": "6.8\" Dynamic AMOLED 2X",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 5000,
+      "Camera": "200MP + 12MP + 10MP + 50MP",
+      "OS": "Android 14",
+      "Weight": 232,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 4, "name": "Samsung Galaxy S24+", "brand": "Samsung", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=S24+Plus",
+    "price": 999, "rating": 4.5,
+    "specs": {
+      "Display": "6.7\" Dynamic AMOLED 2X",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 4900,
+      "Camera": "50MP + 12MP + 10MP",
+      "OS": "Android 14",
+      "Weight": 196,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 5, "name": "OnePlus 12", "brand": "OnePlus", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=OnePlus+12",
+    "price": 799, "rating": 4.5,
+    "specs": {
+      "Display": "6.82\" LTPO AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 16,
+      "Storage": 256,
+      "Battery": 5400,
+      "Camera": "50MP + 48MP + 64MP",
+      "OS": "OxygenOS 14",
+      "Weight": 220,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 6, "name": "Xiaomi 14 Ultra", "brand": "Xiaomi", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ff6900/ffffff?text=Mi+14+Ultra",
+    "price": 1099, "rating": 4.6,
+    "specs": {
+      "Display": "6.73\" LTPO AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 5000,
+      "Camera": "50MP + 50MP + 50MP + 50MP",
+      "OS": "MIUI 14",
+      "Weight": 229,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 7, "name": "Google Pixel 8 Pro", "brand": "Google", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/34a853/ffffff?text=Pixel+8+Pro",
+    "price": 999, "rating": 4.6,
+    "specs": {
+      "Display": "6.7\" LTPO OLED",
+      "Processor": "Google Tensor G3",
+      "RAM": 12,
+      "Storage": 128,
+      "Battery": 5050,
+      "Camera": "50MP + 48MP + 48MP",
+      "OS": "Android 14",
+      "Weight": 213,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 8, "name": "Motorola Edge 50 Pro", "brand": "Motorola", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/e1251b/ffffff?text=Edge+50+Pro",
+    "price": 599, "rating": 4.3,
+    "specs": {
+      "Display": "6.7\" pOLED",
+      "Processor": "Snapdragon 7 Gen 3",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 4500,
+      "Camera": "50MP + 13MP + 10MP",
+      "OS": "Android 14",
+      "Weight": 186,
+      "5G": "Yes",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 9, "name": "Realme GT 6", "brand": "Realme", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ffcc00/000000?text=Realme+GT6",
+    "price": 599, "rating": 4.2,
+    "specs": {
+      "Display": "6.78\" AMOLED",
+      "Processor": "Snapdragon 8s Gen 3",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 5500,
+      "Camera": "50MP + 8MP + 2MP",
+      "OS": "Realme UI 5",
+      "Weight": 199,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 10, "name": "iQOO 12", "brand": "iQOO", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/00d4ff?text=iQOO+12",
+    "price": 699, "rating": 4.4,
+    "specs": {
+      "Display": "6.78\" AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 16,
+      "Storage": 256,
+      "Battery": 5000,
+      "Camera": "50MP + 50MP + 64MP",
+      "OS": "OriginOS 4",
+      "Weight": 210,
+      "5G": "Yes",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 11, "name": "Samsung Galaxy A55", "brand": "Samsung", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=Galaxy+A55",
+    "price": 449, "rating": 4.1,
+    "specs": {
+      "Display": "6.6\" Super AMOLED",
+      "Processor": "Exynos 1480",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 5000,
+      "Camera": "50MP + 12MP + 5MP",
+      "OS": "Android 14",
+      "Weight": 213,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 12, "name": "Redmi Note 13 Pro+", "brand": "Xiaomi", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ff6900/ffffff?text=Note+13+Pro+",
+    "price": 399, "rating": 4.2,
+    "specs": {
+      "Display": "6.67\" AMOLED",
+      "Processor": "Dimensity 7200 Ultra",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 5000,
+      "Camera": "200MP + 8MP + 2MP",
+      "OS": "MIUI 14",
+      "Weight": 204,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 13, "name": "iPhone 14", "brand": "Apple", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=iPhone+14",
+    "price": 699, "rating": 4.4,
+    "specs": {
+      "Display": "6.1\" Super Retina XDR OLED",
+      "Processor": "Apple A15 Bionic",
+      "RAM": 6,
+      "Storage": 128,
+      "Battery": 3279,
+      "Camera": "12MP + 12MP",
+      "OS": "iOS 17",
+      "Weight": 172,
+      "5G": "Yes",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 14, "name": "Nothing Phone 2", "brand": "Nothing", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ffffff/000000?text=Nothing+2",
+    "price": 599, "rating": 4.3,
+    "specs": {
+      "Display": "6.7\" LTPO OLED",
+      "Processor": "Snapdragon 8+ Gen 1",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 4700,
+      "Camera": "50MP + 50MP",
+      "OS": "Nothing OS 2",
+      "Weight": 201,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 15, "name": "Poco X6 Pro", "brand": "Xiaomi", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ff6900/ffffff?text=Poco+X6+Pro",
+    "price": 349, "rating": 4.1,
+    "specs": {
+      "Display": "6.67\" AMOLED",
+      "Processor": "Dimensity 8300 Ultra",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 5000,
+      "Camera": "64MP + 8MP + 2MP",
+      "OS": "MIUI 14",
+      "Weight": 186,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 16, "name": "Vivo X100 Pro", "brand": "Vivo", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/415fff/ffffff?text=X100+Pro",
+    "price": 899, "rating": 4.5,
+    "specs": {
+      "Display": "6.78\" LTPO AMOLED",
+      "Processor": "Dimensity 9300",
+      "RAM": 16,
+      "Storage": 256,
+      "Battery": 5400,
+      "Camera": "50MP + 50MP + 64MP",
+      "OS": "OriginOS 4",
+      "Weight": 225,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 17, "name": "OPPO Find X7 Ultra", "brand": "OPPO", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/1dc050/ffffff?text=Find+X7+Ultra",
+    "price": 1199, "rating": 4.6,
+    "specs": {
+      "Display": "6.82\" LTPO AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 5000,
+      "Camera": "50MP + 50MP + 50MP + 50MP",
+      "OS": "ColorOS 14",
+      "Weight": 221,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 18, "name": "Sony Xperia 1 VI", "brand": "Sony", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/003087/ffffff?text=Xperia+1+VI",
+    "price": 1299, "rating": 4.4,
+    "specs": {
+      "Display": "6.5\" 4K OLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 5000,
+      "Camera": "52MP + 12MP + 12MP",
+      "OS": "Android 14",
+      "Weight": 192,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 19, "name": "Asus ROG Phone 8 Pro", "brand": "Asus", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/00aaff/ffffff?text=ROG+8+Pro",
+    "price": 1199, "rating": 4.5,
+    "specs": {
+      "Display": "6.78\" AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 24,
+      "Storage": 1024,
+      "Battery": 5500,
+      "Camera": "50MP + 13MP + 32MP",
+      "OS": "Android 14",
+      "Weight": 225,
+      "5G": "Yes",
+      "Refresh Rate": 165
+    }
+  },
+  {
+    "id": 20, "name": "Nubia Red Magic 9 Pro", "brand": "Nubia", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ff0066/ffffff?text=Red+Magic+9",
+    "price": 699, "rating": 4.3,
+    "specs": {
+      "Display": "6.8\" AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 16,
+      "Storage": 256,
+      "Battery": 6500,
+      "Camera": "50MP + 8MP + 2MP",
+      "OS": "RedMagic OS 9",
+      "Weight": 229,
+      "5G": "Yes",
+      "Refresh Rate": 165
+    }
+  },
+  {
+    "id": 21, "name": "MacBook Pro 16\" M3 Max", "brand": "Apple", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=MBP+16+M3+Max",
+    "price": 3499, "rating": 4.9,
+    "specs": {
+      "Display": "16.2\" Liquid Retina XDR",
+      "Processor": "Apple M3 Max",
+      "RAM": 36,
+      "Storage": 1024,
+      "Battery": 100,
+      "Camera": "12MP",
+      "OS": "macOS Sonoma",
+      "Weight": 2140,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 22, "name": "MacBook Air 15\" M3", "brand": "Apple", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=MBA+15+M3",
+    "price": 1299, "rating": 4.7,
+    "specs": {
+      "Display": "15.3\" Liquid Retina",
+      "Processor": "Apple M3",
+      "RAM": 8,
+      "Storage": 256,
+      "Battery": 66,
+      "Camera": "1080p",
+      "OS": "macOS Sonoma",
+      "Weight": 1510,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 23, "name": "Dell XPS 15 9530", "brand": "Dell", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/007db8/ffffff?text=Dell+XPS+15",
+    "price": 1899, "rating": 4.5,
+    "specs": {
+      "Display": "15.6\" OLED",
+      "Processor": "Intel Core i9-13900H",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 86,
+      "Camera": "720p",
+      "OS": "Windows 11",
+      "Weight": 1860,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 24, "name": "Lenovo ThinkPad X1 Carbon Gen 12", "brand": "Lenovo", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/e2231a/ffffff?text=X1+Carbon+G12",
+    "price": 1799, "rating": 4.6,
+    "specs": {
+      "Display": "14\" IPS",
+      "Processor": "Intel Core Ultra 7 165U",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 57,
+      "Camera": "1080p",
+      "OS": "Windows 11 Pro",
+      "Weight": 1120,
+      "5G": "Yes",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 25, "name": "HP Spectre x360 16", "brand": "HP", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/0096d6/ffffff?text=Spectre+x360",
+    "price": 1799, "rating": 4.5,
+    "specs": {
+      "Display": "16\" OLED",
+      "Processor": "Intel Core Ultra 7 155H",
+      "RAM": 32,
+      "Storage": 2048,
+      "Battery": 83,
+      "Camera": "9MP",
+      "OS": "Windows 11",
+      "Weight": 2170,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 26, "name": "Asus ROG Zephyrus G16", "brand": "Asus", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/00aaff/ffffff?text=ROG+Zephyrus+G16",
+    "price": 2199, "rating": 4.6,
+    "specs": {
+      "Display": "16\" ROG Nebula OLED",
+      "Processor": "Intel Core i9-14900HX",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 90,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1850,
+      "5G": "No",
+      "Refresh Rate": 240
+    }
+  },
+  {
+    "id": 27, "name": "Razer Blade 15 2024", "brand": "Razer", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/00ff00/000000?text=Razer+Blade+15",
+    "price": 2499, "rating": 4.4,
+    "specs": {
+      "Display": "15.6\" OLED",
+      "Processor": "Intel Core i9-14900HX",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 80,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 2010,
+      "5G": "No",
+      "Refresh Rate": 240
+    }
+  },
+  {
+    "id": 28, "name": "Microsoft Surface Laptop 6", "brand": "Microsoft", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/00a4ef/ffffff?text=Surface+Laptop+6",
+    "price": 1499, "rating": 4.4,
+    "specs": {
+      "Display": "13.5\" PixelSense",
+      "Processor": "Intel Core Ultra 7 165H",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 54,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1340,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 29, "name": "Lenovo Legion Pro 7i Gen 9", "brand": "Lenovo", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/e2231a/ffffff?text=Legion+Pro+7i",
+    "price": 2299, "rating": 4.5,
+    "specs": {
+      "Display": "16\" Mini-LED",
+      "Processor": "Intel Core i9-14900HX",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 99,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 2800,
+      "5G": "No",
+      "Refresh Rate": 240
+    }
+  },
+  {
+    "id": 30, "name": "HP Omen 16 2024", "brand": "HP", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/0096d6/ffffff?text=HP+Omen+16",
+    "price": 1399, "rating": 4.3,
+    "specs": {
+      "Display": "16.1\" IPS",
+      "Processor": "AMD Ryzen 7 7745HX",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 83,
+      "Camera": "720p",
+      "OS": "Windows 11",
+      "Weight": 2360,
+      "5G": "No",
+      "Refresh Rate": 165
+    }
+  },
+  {
+    "id": 31, "name": "Asus ZenBook Pro 14 OLED", "brand": "Asus", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/00aaff/ffffff?text=ZenBook+Pro+14",
+    "price": 1499, "rating": 4.4,
+    "specs": {
+      "Display": "14.5\" OLED",
+      "Processor": "Intel Core i9-13900H",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 76,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1650,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 32, "name": "Dell Alienware m18 R2", "brand": "Dell", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/007db8/ffffff?text=Alienware+m18",
+    "price": 3499, "rating": 4.3,
+    "specs": {
+      "Display": "18\" QHD+",
+      "Processor": "Intel Core i9-14900HX",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 99,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 4390,
+      "5G": "No",
+      "Refresh Rate": 165
+    }
+  },
+  {
+    "id": 33, "name": "Acer Predator Helios 16 2024", "brand": "Acer", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/83c81e/000000?text=Helios+16",
+    "price": 1699, "rating": 4.4,
+    "specs": {
+      "Display": "16\" IPS",
+      "Processor": "Intel Core i9-14900HX",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 90,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 2600,
+      "5G": "No",
+      "Refresh Rate": 240
+    }
+  },
+  {
+    "id": 34, "name": "Samsung Galaxy Book4 Pro 360", "brand": "Samsung", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=Book4+Pro+360",
+    "price": 1899, "rating": 4.4,
+    "specs": {
+      "Display": "16\" Dynamic AMOLED",
+      "Processor": "Intel Core Ultra 7 155H",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 76,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1740,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 35, "name": "MacBook Pro 14\" M3 Pro", "brand": "Apple", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=MBP+14+M3+Pro",
+    "price": 1999, "rating": 4.8,
+    "specs": {
+      "Display": "14.2\" Liquid Retina XDR",
+      "Processor": "Apple M3 Pro",
+      "RAM": 18,
+      "Storage": 512,
+      "Battery": 70,
+      "Camera": "12MP",
+      "OS": "macOS Sonoma",
+      "Weight": 1610,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 36, "name": "Lenovo IdeaPad Slim 5i Gen 9", "brand": "Lenovo", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/e2231a/ffffff?text=IdeaPad+Slim+5i",
+    "price": 699, "rating": 4.1,
+    "specs": {
+      "Display": "14\" OLED",
+      "Processor": "Intel Core Ultra 5 125H",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 70,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1460,
+      "5G": "No",
+      "Refresh Rate": 90
+    }
+  },
+  {
+    "id": 37, "name": "HP Pavilion 15", "brand": "HP", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/0096d6/ffffff?text=HP+Pavilion+15",
+    "price": 649, "rating": 4.0,
+    "specs": {
+      "Display": "15.6\" FHD IPS",
+      "Processor": "AMD Ryzen 5 7535U",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 70,
+      "Camera": "720p",
+      "OS": "Windows 11",
+      "Weight": 1750,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 38, "name": "Dell Inspiron 16 Plus 7640", "brand": "Dell", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/007db8/ffffff?text=Inspiron+16+Plus",
+    "price": 1199, "rating": 4.2,
+    "specs": {
+      "Display": "16\" 3K IPS",
+      "Processor": "Intel Core Ultra 7 155H",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 86,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 2000,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 39, "name": "Asus VivoBook 16X 2024", "brand": "Asus", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/00aaff/ffffff?text=VivoBook+16X",
+    "price": 799, "rating": 4.1,
+    "specs": {
+      "Display": "16\" OLED",
+      "Processor": "AMD Ryzen 9 7940HS",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 90,
+      "Camera": "720p",
+      "OS": "Windows 11",
+      "Weight": 1880,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 40, "name": "MSI Stealth 16 Studio", "brand": "MSI", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/cc0000/ffffff?text=MSI+Stealth+16",
+    "price": 2499, "rating": 4.3,
+    "specs": {
+      "Display": "16\" Mini-LED",
+      "Processor": "Intel Core i9-14900HX",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 99,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 2100,
+      "5G": "No",
+      "Refresh Rate": 240
+    }
+  },
+  {
+    "id": 41, "name": "iPad Pro 13\" M4", "brand": "Apple", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=iPad+Pro+13+M4",
+    "price": 1299, "rating": 4.8,
+    "specs": {
+      "Display": "13\" Ultra Retina XDR OLED",
+      "Processor": "Apple M4",
+      "RAM": 16,
+      "Storage": 256,
+      "Battery": 10290,
+      "Camera": "12MP",
+      "OS": "iPadOS 17",
+      "Weight": 579,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 42, "name": "iPad Air 11\" M2", "brand": "Apple", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=iPad+Air+11+M2",
+    "price": 599, "rating": 4.6,
+    "specs": {
+      "Display": "11\" Liquid Retina",
+      "Processor": "Apple M2",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 7606,
+      "Camera": "12MP",
+      "OS": "iPadOS 17",
+      "Weight": 462,
+      "5G": "Yes",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 43, "name": "Samsung Galaxy Tab S9 Ultra", "brand": "Samsung", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=Tab+S9+Ultra",
+    "price": 1199, "rating": 4.6,
+    "specs": {
+      "Display": "14.6\" Dynamic AMOLED 2X",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 11200,
+      "Camera": "13MP + 8MP",
+      "OS": "Android 13",
+      "Weight": 732,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 44, "name": "Samsung Galaxy Tab S9+", "brand": "Samsung", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=Tab+S9+Plus",
+    "price": 999, "rating": 4.5,
+    "specs": {
+      "Display": "12.4\" Dynamic AMOLED 2X",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 10090,
+      "Camera": "13MP + 8MP",
+      "OS": "Android 13",
+      "Weight": 581,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 45, "name": "OnePlus Pad 2", "brand": "OnePlus", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=OnePlus+Pad+2",
+    "price": 549, "rating": 4.3,
+    "specs": {
+      "Display": "12.1\" LTPO LCD",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 9510,
+      "Camera": "13MP",
+      "OS": "OxygenOS 14",
+      "Weight": 584,
+      "5G": "No",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 46, "name": "Xiaomi Pad 6 Pro", "brand": "Xiaomi", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/ff6900/ffffff?text=Pad+6+Pro",
+    "price": 449, "rating": 4.3,
+    "specs": {
+      "Display": "11\" IPS LCD",
+      "Processor": "Snapdragon 8+ Gen 1",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 8600,
+      "Camera": "50MP",
+      "OS": "MIUI 14",
+      "Weight": 490,
+      "5G": "No",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 47, "name": "Lenovo Tab P12 Pro", "brand": "Lenovo", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/e2231a/ffffff?text=Tab+P12+Pro",
+    "price": 699, "rating": 4.2,
+    "specs": {
+      "Display": "12.6\" Super AMOLED",
+      "Processor": "Snapdragon 870",
+      "RAM": 8,
+      "Storage": 256,
+      "Battery": 10200,
+      "Camera": "13MP",
+      "OS": "Android 13",
+      "Weight": 565,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 48, "name": "Realme Pad 2", "brand": "Realme", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/ffcc00/000000?text=Realme+Pad+2",
+    "price": 299, "rating": 4.0,
+    "specs": {
+      "Display": "11.5\" IPS LCD",
+      "Processor": "Helio G99",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 8360,
+      "Camera": "13MP",
+      "OS": "Android 13",
+      "Weight": 465,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 49, "name": "iPad mini 6", "brand": "Apple", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=iPad+mini+6",
+    "price": 499, "rating": 4.5,
+    "specs": {
+      "Display": "8.3\" Liquid Retina",
+      "Processor": "Apple A15 Bionic",
+      "RAM": 4,
+      "Storage": 64,
+      "Battery": 5124,
+      "Camera": "12MP",
+      "OS": "iPadOS 17",
+      "Weight": 293,
+      "5G": "Yes",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 50, "name": "Samsung Galaxy Tab A9+", "brand": "Samsung", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=Tab+A9+Plus",
+    "price": 279, "rating": 4.0,
+    "specs": {
+      "Display": "11\" IPS LCD",
+      "Processor": "Snapdragon 695",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 7040,
+      "Camera": "8MP",
+      "OS": "Android 13",
+      "Weight": 480,
+      "5G": "Yes",
+      "Refresh Rate": 90
+    }
+  },
+  {
+    "id": 51, "name": "Google Pixel 8a", "brand": "Google", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/34a853/ffffff?text=Pixel+8a",
+    "price": 499, "rating": 4.4,
+    "specs": {
+      "Display": "6.1\" OLED",
+      "Processor": "Google Tensor G3",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 4492,
+      "Camera": "64MP + 13MP",
+      "OS": "Android 14",
+      "Weight": 188,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 52, "name": "Samsung Galaxy S23 FE", "brand": "Samsung", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=S23+FE",
+    "price": 399, "rating": 4.1,
+    "specs": {
+      "Display": "6.4\" Dynamic AMOLED 2X",
+      "Processor": "Exynos 2200",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 4500,
+      "Camera": "50MP + 8MP + 10MP",
+      "OS": "Android 14",
+      "Weight": 209,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 53, "name": "Xiaomi Redmi Note 12 Pro", "brand": "Xiaomi", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ff6900/ffffff?text=Note+12+Pro",
+    "price": 299, "rating": 4.1,
+    "specs": {
+      "Display": "6.67\" AMOLED",
+      "Processor": "Dimensity 1080",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 5000,
+      "Camera": "50MP + 8MP + 2MP",
+      "OS": "MIUI 13",
+      "Weight": 187,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 54, "name": "OnePlus Nord 4", "brand": "OnePlus", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=Nord+4",
+    "price": 399, "rating": 4.2,
+    "specs": {
+      "Display": "6.74\" AMOLED",
+      "Processor": "Snapdragon 7+ Gen 3",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 5500,
+      "Camera": "50MP + 8MP",
+      "OS": "OxygenOS 14",
+      "Weight": 177,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 55, "name": "Vivo T3x 5G", "brand": "Vivo", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/415fff/ffffff?text=Vivo+T3x+5G",
+    "price": 199, "rating": 4.0,
+    "specs": {
+      "Display": "6.72\" LCD",
+      "Processor": "Snapdragon 6 Gen 1",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 6000,
+      "Camera": "50MP + 2MP",
+      "OS": "Android 14",
+      "Weight": 227,
+      "5G": "Yes",
+      "Refresh Rate": 90
+    }
+  },
+  {
+    "id": 56, "name": "Motorola Razr 50 Ultra", "brand": "Motorola", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/e1251b/ffffff?text=Razr+50+Ultra",
+    "price": 999, "rating": 4.4,
+    "specs": {
+      "Display": "6.9\" pOLED",
+      "Processor": "Snapdragon 8s Gen 3",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 4000,
+      "Camera": "50MP + 50MP",
+      "OS": "Android 14",
+      "Weight": 189,
+      "5G": "Yes",
+      "Refresh Rate": 165
+    }
+  },
+  {
+    "id": 57, "name": "Samsung Galaxy Z Fold 6", "brand": "Samsung", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=Z+Fold+6",
+    "price": 1899, "rating": 4.5,
+    "specs": {
+      "Display": "7.6\" Dynamic AMOLED 2X",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 4400,
+      "Camera": "50MP + 12MP + 10MP",
+      "OS": "Android 14",
+      "Weight": 239,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 58, "name": "Samsung Galaxy Z Flip 6", "brand": "Samsung", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=Z+Flip+6",
+    "price": 1099, "rating": 4.3,
+    "specs": {
+      "Display": "6.7\" Dynamic AMOLED 2X",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 4000,
+      "Camera": "50MP + 12MP",
+      "OS": "Android 14",
+      "Weight": 187,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 59, "name": "Tecno Phantom V Fold 2", "brand": "Tecno", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/2563eb/ffffff?text=Phantom+V+Fold+2",
+    "price": 799, "rating": 4.0,
+    "specs": {
+      "Display": "7.85\" LTPO AMOLED",
+      "Processor": "Dimensity 9200+",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 5000,
+      "Camera": "50MP + 12MP + 10MP",
+      "OS": "Android 14",
+      "Weight": 245,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 60, "name": "Lava Agni 3", "brand": "Lava", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ff0000/ffffff?text=Lava+Agni+3",
+    "price": 199, "rating": 3.9,
+    "specs": {
+      "Display": "6.78\" AMOLED",
+      "Processor": "Dimensity 7050",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 5000,
+      "Camera": "50MP + 5MP + 2MP",
+      "OS": "Android 14",
+      "Weight": 196,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 61, "name": "MacBook Air 13\" M2", "brand": "Apple", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=MBA+13+M2",
+    "price": 1099, "rating": 4.7,
+    "specs": {
+      "Display": "13.6\" Liquid Retina",
+      "Processor": "Apple M2",
+      "RAM": 8,
+      "Storage": 256,
+      "Battery": 52,
+      "Camera": "1080p",
+      "OS": "macOS Sonoma",
+      "Weight": 1240,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 62, "name": "HP EliteBook 840 G11", "brand": "HP", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/0096d6/ffffff?text=EliteBook+840+G11",
+    "price": 1299, "rating": 4.3,
+    "specs": {
+      "Display": "14\" IPS",
+      "Processor": "Intel Core Ultra 7 165U",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 51,
+      "Camera": "9MP",
+      "OS": "Windows 11 Pro",
+      "Weight": 1370,
+      "5G": "Yes",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 63, "name": "Lenovo ThinkBook 16 Gen 6", "brand": "Lenovo", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/e2231a/ffffff?text=ThinkBook+16+G6",
+    "price": 899, "rating": 4.2,
+    "specs": {
+      "Display": "16\" IPS",
+      "Processor": "AMD Ryzen 7 7730U",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 60,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1760,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 64, "name": "Asus TUF Gaming A16 2024", "brand": "Asus", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/00aaff/ffffff?text=TUF+A16",
+    "price": 1099, "rating": 4.3,
+    "specs": {
+      "Display": "16\" IPS",
+      "Processor": "AMD Ryzen 9 8945HS",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 90,
+      "Camera": "720p",
+      "OS": "Windows 11",
+      "Weight": 2340,
+      "5G": "No",
+      "Refresh Rate": 165
+    }
+  },
+  {
+    "id": 65, "name": "Microsoft Surface Pro 10", "brand": "Microsoft", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/00a4ef/ffffff?text=Surface+Pro+10",
+    "price": 1499, "rating": 4.4,
+    "specs": {
+      "Display": "13\" PixelSense Flow",
+      "Processor": "Intel Core Ultra 7 165U",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 53,
+      "Camera": "10MP",
+      "OS": "Windows 11",
+      "Weight": 895,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 66, "name": "Huawei MatePad Pro 13.2", "brand": "Huawei", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/cf0a2c/ffffff?text=MatePad+Pro+13.2",
+    "price": 799, "rating": 4.3,
+    "specs": {
+      "Display": "13.2\" OLED",
+      "Processor": "Kirin 9000s",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 10100,
+      "Camera": "13MP",
+      "OS": "HarmonyOS 4",
+      "Weight": 580,
+      "5G": "Yes",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 67, "name": "Redmi Pad Pro", "brand": "Xiaomi", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/ff6900/ffffff?text=Redmi+Pad+Pro",
+    "price": 299, "rating": 4.1,
+    "specs": {
+      "Display": "12.1\" IPS LCD",
+      "Processor": "Snapdragon 7s Gen 2",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 10000,
+      "Camera": "8MP",
+      "OS": "MIUI 14",
+      "Weight": 571,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 68, "name": "Samsung Galaxy Tab S9 FE+", "brand": "Samsung", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=Tab+S9+FE+Plus",
+    "price": 449, "rating": 4.1,
+    "specs": {
+      "Display": "12.4\" TFT",
+      "Processor": "Exynos 1380",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 10090,
+      "Camera": "8MP",
+      "OS": "Android 14",
+      "Weight": 627,
+      "5G": "Yes",
+      "Refresh Rate": 90
+    }
+  },
+  {
+    "id": 69, "name": "Honor Pad 9", "brand": "Honor", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/cf0a2c/ffffff?text=Honor+Pad+9",
+    "price": 349, "rating": 4.1,
+    "specs": {
+      "Display": "12.1\" IPS LCD",
+      "Processor": "Snapdragon 6 Gen 1",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 8300,
+      "Camera": "13MP",
+      "OS": "Android 13",
+      "Weight": 555,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 70, "name": "Asus Vivobook S 15 OLED", "brand": "Asus", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/00aaff/ffffff?text=Vivobook+S15+OLED",
+    "price": 999, "rating": 4.3,
+    "specs": {
+      "Display": "15.6\" OLED",
+      "Processor": "Snapdragon X Elite",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 70,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1420,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 71, "name": "Dell XPS 13 Plus 9320", "brand": "Dell", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/007db8/ffffff?text=XPS+13+Plus",
+    "price": 1499, "rating": 4.4,
+    "specs": {
+      "Display": "13.4\" OLED",
+      "Processor": "Intel Core i7-1360P",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 55,
+      "Camera": "720p",
+      "OS": "Windows 11",
+      "Weight": 1260,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 72, "name": "LG Gram 17 2024", "brand": "LG", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/a50034/ffffff?text=LG+Gram+17",
+    "price": 1599, "rating": 4.4,
+    "specs": {
+      "Display": "17\" IPS",
+      "Processor": "Intel Core Ultra 7 155H",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 80,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1350,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 73, "name": "Acer Swift Go 16 OLED", "brand": "Acer", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/83c81e/000000?text=Swift+Go+16",
+    "price": 999, "rating": 4.2,
+    "specs": {
+      "Display": "16\" OLED",
+      "Processor": "Intel Core Ultra 5 125H",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 65,
+      "Camera": "1440p",
+      "OS": "Windows 11",
+      "Weight": 1660,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 74, "name": "MSI Prestige 16 AI Studio", "brand": "MSI", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/cc0000/ffffff?text=Prestige+16+AI",
+    "price": 1799, "rating": 4.3,
+    "specs": {
+      "Display": "16\" OLED",
+      "Processor": "Intel Core Ultra 9 185H",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 99,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1760,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 75, "name": "Samsung Galaxy S24", "brand": "Samsung", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=S24",
+    "price": 799, "rating": 4.4,
+    "specs": {
+      "Display": "6.2\" Dynamic AMOLED 2X",
+      "Processor": "Exynos 2400",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 4000,
+      "Camera": "50MP + 12MP + 10MP",
+      "OS": "Android 14",
+      "Weight": 167,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 76, "name": "Realme 12 Pro+", "brand": "Realme", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ffcc00/000000?text=Realme+12+Pro+",
+    "price": 349, "rating": 4.2,
+    "specs": {
+      "Display": "6.7\" AMOLED",
+      "Processor": "Snapdragon 7s Gen 2",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 5000,
+      "Camera": "50MP + 64MP + 8MP",
+      "OS": "Realme UI 5",
+      "Weight": 190,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 77, "name": "Infinix Zero 40 5G", "brand": "Infinix", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/00c3ff/ffffff?text=Zero+40+5G",
+    "price": 249, "rating": 3.9,
+    "specs": {
+      "Display": "6.78\" AMOLED",
+      "Processor": "Dimensity 8200 Ultimate",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 5000,
+      "Camera": "108MP + 13MP + 2MP",
+      "OS": "Android 14",
+      "Weight": 195,
+      "5G": "Yes",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 78, "name": "Honor Magic 6 Pro", "brand": "Honor", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/cf0a2c/ffffff?text=Magic+6+Pro",
+    "price": 849, "rating": 4.4,
+    "specs": {
+      "Display": "6.8\" LTPO OLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 12,
+      "Storage": 512,
+      "Battery": 5600,
+      "Camera": "50MP + 180MP + 50MP",
+      "OS": "Android 14",
+      "Weight": 229,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 79, "name": "ZTE Axon 60 Ultra", "brand": "ZTE", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/00aaff/ffffff?text=Axon+60+Ultra",
+    "price": 749, "rating": 4.1,
+    "specs": {
+      "Display": "6.8\" AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 6000,
+      "Camera": "200MP + 50MP + 50MP",
+      "OS": "Android 14",
+      "Weight": 235,
+      "5G": "Yes",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 80, "name": "OPPO Reno 12 Pro", "brand": "OPPO", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/1dc050/ffffff?text=Reno+12+Pro",
+    "price": 499, "rating": 4.2,
+    "specs": {
+      "Display": "6.7\" AMOLED",
+      "Processor": "Dimensity 7300 Energy",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 5000,
+      "Camera": "50MP + 50MP + 8MP",
+      "OS": "Android 14",
+      "Weight": 180,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 81, "name": "HP Envy x360 14 2024", "brand": "HP", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/0096d6/ffffff?text=Envy+x360+14",
+    "price": 1099, "rating": 4.3,
+    "specs": {
+      "Display": "14\" OLED",
+      "Processor": "AMD Ryzen 7 8840U",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 54,
+      "Camera": "5MP",
+      "OS": "Windows 11",
+      "Weight": 1590,
+      "5G": "No",
+      "Refresh Rate": 90
+    }
+  },
+  {
+    "id": 82, "name": "Lenovo Yoga Pro 9i 16", "brand": "Lenovo", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/e2231a/ffffff?text=Yoga+Pro+9i",
+    "price": 1799, "rating": 4.5,
+    "specs": {
+      "Display": "16\" Mini-LED",
+      "Processor": "Intel Core Ultra 9 185H",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 99,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1880,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 83, "name": "Acer Nitro V 15 2024", "brand": "Acer", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/83c81e/000000?text=Nitro+V+15",
+    "price": 799, "rating": 4.1,
+    "specs": {
+      "Display": "15.6\" IPS",
+      "Processor": "AMD Ryzen 5 8600G",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 57,
+      "Camera": "720p",
+      "OS": "Windows 11",
+      "Weight": 2380,
+      "5G": "No",
+      "Refresh Rate": 165
+    }
+  },
+  {
+    "id": 84, "name": "Microsoft Surface Pro 9 (5G)", "brand": "Microsoft", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/00a4ef/ffffff?text=Surface+Pro+9+5G",
+    "price": 1299, "rating": 4.2,
+    "specs": {
+      "Display": "13\" PixelSense Flow",
+      "Processor": "Microsoft SQ3",
+      "RAM": 16,
+      "Storage": 256,
+      "Battery": 47,
+      "Camera": "10MP",
+      "OS": "Windows 11",
+      "Weight": 879,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 85, "name": "Lenovo Tab P11 Pro Gen 2", "brand": "Lenovo", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/e2231a/ffffff?text=Tab+P11+Pro",
+    "price": 349, "rating": 4.0,
+    "specs": {
+      "Display": "11.2\" OLED",
+      "Processor": "Dimensity 9000",
+      "RAM": 8,
+      "Storage": 256,
+      "Battery": 8600,
+      "Camera": "13MP",
+      "OS": "Android 12",
+      "Weight": 485,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 86, "name": "Asus ROG Flow Z13 2024", "brand": "Asus", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/00aaff/ffffff?text=ROG+Flow+Z13",
+    "price": 1799, "rating": 4.4,
+    "specs": {
+      "Display": "13.4\" QHD+ 165Hz",
+      "Processor": "AMD Ryzen Z1 Extreme",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 56,
+      "Camera": "8MP",
+      "OS": "Windows 11",
+      "Weight": 1180,
+      "5G": "No",
+      "Refresh Rate": 165
+    }
+  },
+  {
+    "id": 87, "name": "Apple iPad 10th Gen", "brand": "Apple", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=iPad+10th+Gen",
+    "price": 349, "rating": 4.4,
+    "specs": {
+      "Display": "10.9\" Liquid Retina",
+      "Processor": "Apple A14 Bionic",
+      "RAM": 4,
+      "Storage": 64,
+      "Battery": 7606,
+      "Camera": "12MP",
+      "OS": "iPadOS 17",
+      "Weight": 477,
+      "5G": "Yes",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 88, "name": "TCL NXTPAPER 14 Pro", "brand": "TCL", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/009ee0/ffffff?text=NXTPAPER+14",
+    "price": 399, "rating": 3.9,
+    "specs": {
+      "Display": "14\" NXTPAPER",
+      "Processor": "Snapdragon 7s Gen 2",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 10000,
+      "Camera": "13MP",
+      "OS": "Android 14",
+      "Weight": 666,
+      "5G": "Yes",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 89, "name": "Vivo Pad 3 Pro", "brand": "Vivo", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/415fff/ffffff?text=Vivo+Pad+3+Pro",
+    "price": 479, "rating": 4.2,
+    "specs": {
+      "Display": "12.1\" IPS LCD",
+      "Processor": "Dimensity 9300",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 11500,
+      "Camera": "50MP",
+      "OS": "Android 14",
+      "Weight": 590,
+      "5G": "No",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 90, "name": "Google Pixel Tablet 2", "brand": "Google", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/34a853/ffffff?text=Pixel+Tablet+2",
+    "price": 499, "rating": 4.2,
+    "specs": {
+      "Display": "11\" IPS LCD",
+      "Processor": "Google Tensor G4",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 7020,
+      "Camera": "8MP",
+      "OS": "Android 15",
+      "Weight": 500,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 91, "name": "iPhone 15 Pro", "brand": "Apple", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=iPhone+15+Pro",
+    "price": 999, "rating": 4.7,
+    "specs": {
+      "Display": "6.1\" Super Retina XDR OLED",
+      "Processor": "Apple A17 Pro",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 3274,
+      "Camera": "48MP + 12MP + 12MP",
+      "OS": "iOS 17",
+      "Weight": 187,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 92, "name": "Xiaomi 14", "brand": "Xiaomi", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ff6900/ffffff?text=Xiaomi+14",
+    "price": 799, "rating": 4.5,
+    "specs": {
+      "Display": "6.36\" AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 4610,
+      "Camera": "50MP + 50MP + 50MP",
+      "OS": "MIUI 14",
+      "Weight": 193,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 93, "name": "HP Chromebook x360 14c", "brand": "HP", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/0096d6/ffffff?text=Chromebook+x360",
+    "price": 499, "rating": 3.9,
+    "specs": {
+      "Display": "14\" IPS",
+      "Processor": "Intel Core i3-1215U",
+      "RAM": 8,
+      "Storage": 256,
+      "Battery": 51,
+      "Camera": "1080p",
+      "OS": "Chrome OS",
+      "Weight": 1570,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 94, "name": "Lenovo IdeaPad Gaming 3i 16", "brand": "Lenovo", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/e2231a/ffffff?text=IdeaPad+Gaming+3i",
+    "price": 749, "rating": 4.0,
+    "specs": {
+      "Display": "16\" IPS",
+      "Processor": "Intel Core i5-12450H",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 60,
+      "Camera": "720p",
+      "OS": "Windows 11",
+      "Weight": 2380,
+      "5G": "No",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 95, "name": "Asus ExpertBook B9 OLED", "brand": "Asus", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/00aaff/ffffff?text=ExpertBook+B9",
+    "price": 1699, "rating": 4.4,
+    "specs": {
+      "Display": "14\" OLED",
+      "Processor": "Intel Core Ultra 7 155U",
+      "RAM": 32,
+      "Storage": 1024,
+      "Battery": 63,
+      "Camera": "1080p",
+      "OS": "Windows 11 Pro",
+      "Weight": 880,
+      "5G": "Yes",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 96, "name": "Dell G16 Gaming Laptop 2024", "brand": "Dell", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/007db8/ffffff?text=Dell+G16+Gaming",
+    "price": 999, "rating": 4.2,
+    "specs": {
+      "Display": "16\" QHD+",
+      "Processor": "Intel Core i7-13650HX",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 86,
+      "Camera": "720p",
+      "OS": "Windows 11",
+      "Weight": 2860,
+      "5G": "No",
+      "Refresh Rate": 165
+    }
+  },
+  {
+    "id": 97, "name": "Acer Aspire 5 2024", "brand": "Acer", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/83c81e/000000?text=Acer+Aspire+5",
+    "price": 549, "rating": 3.9,
+    "specs": {
+      "Display": "15.6\" IPS",
+      "Processor": "AMD Ryzen 5 7530U",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 50,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1820,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 98, "name": "Tecno MegaBook T16 Pro", "brand": "Tecno", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/2563eb/ffffff?text=MegaBook+T16+Pro",
+    "price": 699, "rating": 3.9,
+    "specs": {
+      "Display": "16\" IPS",
+      "Processor": "AMD Ryzen 7 7840H",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 70,
+      "Camera": "1080p",
+      "OS": "Windows 11",
+      "Weight": 1690,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 99, "name": "OPPO Pad 2", "brand": "OPPO", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/1dc050/ffffff?text=OPPO+Pad+2",
+    "price": 449, "rating": 4.1,
+    "specs": {
+      "Display": "12.1\" IPS LCD",
+      "Processor": "Dimensity 9000",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 9510,
+      "Camera": "13MP",
+      "OS": "Android 13",
+      "Weight": 552,
+      "5G": "No",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 100, "name": "Huawei MatePad 11.5 S", "brand": "Huawei", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/cf0a2c/ffffff?text=MatePad+11.5+S",
+    "price": 349, "rating": 4.0,
+    "specs": {
+      "Display": "11.5\" OLED",
+      "Processor": "Kirin 9000W",
+      "RAM": 8,
+      "Storage": 256,
+      "Battery": 8800,
+      "Camera": "13MP",
+      "OS": "HarmonyOS 4",
+      "Weight": 510,
+      "5G": "No",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 101, "name": "Poco F6 Pro", "brand": "Xiaomi", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ff6900/ffffff?text=Poco+F6+Pro",
+    "price": 499, "rating": 4.3,
+    "specs": {
+      "Display": "6.67\" LTPO AMOLED",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 5000,
+      "Camera": "50MP + 8MP + 2MP",
+      "OS": "MIUI 14",
+      "Weight": 209,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 102, "name": "Asus Zenfone 11 Ultra", "brand": "Asus", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/00aaff/ffffff?text=Zenfone+11+Ultra",
+    "price": 899, "rating": 4.4,
+    "specs": {
+      "Display": "6.78\" AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 5800,
+      "Camera": "50MP + 13MP + 32MP",
+      "OS": "Android 14",
+      "Weight": 224,
+      "5G": "Yes",
+      "Refresh Rate": 144
+    }
+  },
+  {
+    "id": 103, "name": "Samsung Galaxy M55", "brand": "Samsung", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/0d1117/ffffff?text=Galaxy+M55",
+    "price": 299, "rating": 4.0,
+    "specs": {
+      "Display": "6.7\" Super AMOLED",
+      "Processor": "Snapdragon 7 Gen 1",
+      "RAM": 8,
+      "Storage": 128,
+      "Battery": 5000,
+      "Camera": "50MP + 8MP + 2MP",
+      "OS": "Android 14",
+      "Weight": 180,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 104, "name": "Apple iPad Pro 11\" M4", "brand": "Apple", "category": "tablet",
+    "image": "https://via.placeholder.com/200x200/1a1a2e/ffffff?text=iPad+Pro+11+M4",
+    "price": 999, "rating": 4.7,
+    "specs": {
+      "Display": "11\" Ultra Retina XDR OLED",
+      "Processor": "Apple M4",
+      "RAM": 8,
+      "Storage": 256,
+      "Battery": 7606,
+      "Camera": "12MP",
+      "OS": "iPadOS 17",
+      "Weight": 444,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 105, "name": "HP ZBook Fury 16 G11", "brand": "HP", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/0096d6/ffffff?text=ZBook+Fury+16",
+    "price": 2999, "rating": 4.5,
+    "specs": {
+      "Display": "16\" IPS",
+      "Processor": "Intel Core Ultra 9 185HX",
+      "RAM": 64,
+      "Storage": 2048,
+      "Battery": 96,
+      "Camera": "5MP",
+      "OS": "Windows 11 Pro",
+      "Weight": 2820,
+      "5G": "No",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 106, "name": "Lenovo ThinkPad P16 Gen 2", "brand": "Lenovo", "category": "laptop",
+    "image": "https://via.placeholder.com/200x200/e2231a/ffffff?text=ThinkPad+P16+G2",
+    "price": 2499, "rating": 4.4,
+    "specs": {
+      "Display": "16\" IPS",
+      "Processor": "Intel Core i9-13980HX",
+      "RAM": 64,
+      "Storage": 2048,
+      "Battery": 99,
+      "Camera": "1080p",
+      "OS": "Windows 11 Pro",
+      "Weight": 2850,
+      "5G": "No",
+      "Refresh Rate": 60
+    }
+  },
+  {
+    "id": 107, "name": "Google Pixel 9 Pro Fold", "brand": "Google", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/34a853/ffffff?text=Pixel+9+Pro+Fold",
+    "price": 1799, "rating": 4.5,
+    "specs": {
+      "Display": "8\" LTPO OLED",
+      "Processor": "Google Tensor G4",
+      "RAM": 16,
+      "Storage": 256,
+      "Battery": 4650,
+      "Camera": "48MP + 10.5MP + 10.8MP",
+      "OS": "Android 14",
+      "Weight": 257,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 108, "name": "Nubia Z60 Ultra", "brand": "Nubia", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ff0066/ffffff?text=Nubia+Z60+Ultra",
+    "price": 749, "rating": 4.3,
+    "specs": {
+      "Display": "6.8\" AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": 16,
+      "Storage": 512,
+      "Battery": 6000,
+      "Camera": "50MP + 50MP + 64MP",
+      "OS": "Android 14",
+      "Weight": 228,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 109, "name": "Nothing Phone 2a Plus", "brand": "Nothing", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ffffff/000000?text=Phone+2a+Plus",
+    "price": 399, "rating": 4.2,
+    "specs": {
+      "Display": "6.7\" AMOLED",
+      "Processor": "Dimensity 7350 Pro",
+      "RAM": 12,
+      "Storage": 256,
+      "Battery": 5000,
+      "Camera": "50MP + 50MP",
+      "OS": "Nothing OS 2.6",
+      "Weight": 190,
+      "5G": "Yes",
+      "Refresh Rate": 120
+    }
+  },
+  {
+    "id": 110, "name": "Xiaomi Redmi 13C 5G", "brand": "Xiaomi", "category": "mobile",
+    "image": "https://via.placeholder.com/200x200/ff6900/ffffff?text=Redmi+13C+5G",
+    "price": 149, "rating": 3.8,
+    "specs": {
+      "Display": "6.74\" IPS LCD",
+      "Processor": "Dimensity 6100+",
+      "RAM": 4,
+      "Storage": 64,
+      "Battery": 5000,
+      "Camera": "50MP + 2MP",
+      "OS": "MIUI 14",
+      "Weight": 193,
+      "5G": "Yes",
+      "Refresh Rate": 90
+    }
+  }
+]
